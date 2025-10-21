@@ -1,0 +1,594 @@
+!SESSION 2025-10-21 08:51:05.415 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=zh_CN_#Hans
+Command-line arguments:  -data /Users/wangzhixiong/.emacs.d/.cache/jdtls-workspace
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.312
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.331
+!MESSAGE Started org.eclipse.buildship.core 13ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.332
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.399
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.438
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.439
+!MESSAGE Initializing Java Language Server 1.47.0.202505151856
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.664
+!MESSAGE ProjectRegistryRefreshJob finished 332ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.685
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.685
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.696
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.707
+!MESSAGE RepositoryRegistryUpdateJob finished 13ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:06.799
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:07.427
+!MESSAGE Default VM Install changed from  null to 1761007867424-/opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:08.965
+!MESSAGE Workspace initialized in 2270ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:08.972
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:09.708
+!MESSAGE Reconciled 14. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.506
+!MESSAGE begin problem for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.507
+!MESSAGE 100 problems reported for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.616
+!MESSAGE begin problem for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.616
+!MESSAGE 91 problems reported for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.660
+!MESSAGE begin problem for /CarbonPanelController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.660
+!MESSAGE 0 problems reported for /CarbonPanelController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.665
+!MESSAGE Reconciled 4. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.699
+!MESSAGE Reconciled 2. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.725
+!MESSAGE Reconciled 3. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:10.783
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.056
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.056
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.057
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.450
+!MESSAGE begin problem for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.450
+!MESSAGE 91 problems reported for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.517
+!MESSAGE begin problem for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.517
+!MESSAGE 100 problems reported for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.673
+!MESSAGE begin problem for /EnergyDataAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.674
+!MESSAGE 100 problems reported for /EnergyDataAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.700
+!MESSAGE begin problem for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.700
+!MESSAGE 24 problems reported for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.788
+!MESSAGE begin problem for /EnergyReportBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.788
+!MESSAGE 100 problems reported for /EnergyReportBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.823
+!MESSAGE begin problem for /DayAnalysis.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.824
+!MESSAGE 46 problems reported for /DayAnalysis.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.841
+!MESSAGE begin problem for /AppSpecialController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.841
+!MESSAGE 0 problems reported for /AppSpecialController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.858
+!MESSAGE begin problem for /PowerController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.859
+!MESSAGE 15 problems reported for /PowerController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.876
+!MESSAGE begin problem for /AdminEnergyClassificationController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.876
+!MESSAGE 0 problems reported for /AdminEnergyClassificationController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.894
+!MESSAGE begin problem for /EnergyReportController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.895
+!MESSAGE 3 problems reported for /EnergyReportController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.909
+!MESSAGE begin problem for /OpenApiController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.909
+!MESSAGE 2 problems reported for /OpenApiController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.954
+!MESSAGE begin problem for /InfluxDBService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.954
+!MESSAGE 71 problems reported for /InfluxDBService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.994
+!MESSAGE begin problem for /CarbonPanelBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.994
+!MESSAGE 100 problems reported for /CarbonPanelBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:11.996
+!MESSAGE Validated 13. Took 610 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:23.945
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:23.949
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:24.024
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:24.026
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2025-10-21 08:51:24.343 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=zh_CN_#Hans
+Command-line arguments:  -data /Users/wangzhixiong/.emacs.d/.cache/jdtls-workspace
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.061
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.085
+!MESSAGE Started org.eclipse.buildship.core 17ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.086
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.087
+!MESSAGE ProjectRegistryRefreshJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.144
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.158
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.159
+!MESSAGE Initializing Java Language Server 1.47.0.202505151856
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.185
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.186
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.194
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.475
+!MESSAGE RepositoryRegistryUpdateJob finished 282ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.482
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.496
+!MESSAGE Workspace initialized in 304ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.504
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.522
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.522
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:25.525
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:26.450
+!MESSAGE Reconciled 14. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.183
+!MESSAGE begin problem for /AdminEnergyClassificationController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.184
+!MESSAGE 0 problems reported for /AdminEnergyClassificationController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.216
+!MESSAGE begin problem for /PowerController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.217
+!MESSAGE 15 problems reported for /PowerController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.245
+!MESSAGE begin problem for /OpenApiController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.245
+!MESSAGE 2 problems reported for /OpenApiController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.279
+!MESSAGE begin problem for /EnergyReportController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.279
+!MESSAGE 3 problems reported for /EnergyReportController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.334
+!MESSAGE begin problem for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.334
+!MESSAGE 24 problems reported for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.356
+!MESSAGE begin problem for /AppSpecialController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.356
+!MESSAGE 0 problems reported for /AppSpecialController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.497
+!MESSAGE begin problem for /EnergyReportBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.498
+!MESSAGE 100 problems reported for /EnergyReportBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.562
+!MESSAGE begin problem for /DayAnalysis.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.562
+!MESSAGE 46 problems reported for /DayAnalysis.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.582
+!MESSAGE begin problem for /CarbonPanelController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.582
+!MESSAGE 0 problems reported for /CarbonPanelController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.672
+!MESSAGE begin problem for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.672
+!MESSAGE 100 problems reported for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.742
+!MESSAGE begin problem for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.742
+!MESSAGE 91 problems reported for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.896
+!MESSAGE begin problem for /EnergyDataAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.896
+!MESSAGE 100 problems reported for /EnergyDataAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.955
+!MESSAGE begin problem for /CarbonPanelBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.956
+!MESSAGE 100 problems reported for /CarbonPanelBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.997
+!MESSAGE begin problem for /InfluxDBService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.997
+!MESSAGE 71 problems reported for /InfluxDBService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:51:27.997
+!MESSAGE Validated 14. Took 942 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:16.011
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:17.468
+!MESSAGE begin problem for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:17.469
+!MESSAGE 25 problems reported for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:17.469
+!MESSAGE Validated 1. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:17.728
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.493
+!MESSAGE begin problem for /AdminEnergyClassificationController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.493
+!MESSAGE 0 problems reported for /AdminEnergyClassificationController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.502
+!MESSAGE begin problem for /PowerController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.502
+!MESSAGE 15 problems reported for /PowerController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.511
+!MESSAGE begin problem for /OpenApiController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.512
+!MESSAGE 2 problems reported for /OpenApiController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.522
+!MESSAGE begin problem for /EnergyReportController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.523
+!MESSAGE 3 problems reported for /EnergyReportController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.537
+!MESSAGE begin problem for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.537
+!MESSAGE 25 problems reported for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.544
+!MESSAGE begin problem for /AppSpecialController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.544
+!MESSAGE 0 problems reported for /AppSpecialController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.580
+!MESSAGE begin problem for /EnergyReportBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.581
+!MESSAGE 100 problems reported for /EnergyReportBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.602
+!MESSAGE begin problem for /DayAnalysis.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.602
+!MESSAGE 46 problems reported for /DayAnalysis.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.611
+!MESSAGE begin problem for /CarbonPanelController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.611
+!MESSAGE 0 problems reported for /CarbonPanelController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.649
+!MESSAGE begin problem for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.650
+!MESSAGE 100 problems reported for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.675
+!MESSAGE begin problem for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.676
+!MESSAGE 91 problems reported for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.747
+!MESSAGE begin problem for /EnergyDataAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.748
+!MESSAGE 100 problems reported for /EnergyDataAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.779
+!MESSAGE begin problem for /CarbonPanelBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.779
+!MESSAGE 100 problems reported for /CarbonPanelBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.805
+!MESSAGE begin problem for /InfluxDBService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.805
+!MESSAGE 71 problems reported for /InfluxDBService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:18.805
+!MESSAGE Validated 14. Took 338 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:20.667
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:21.370
+!MESSAGE begin problem for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:21.370
+!MESSAGE 24 problems reported for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 08:52:21.371
+!MESSAGE Validated 1. Took 38 ms
+!SESSION 2025-10-21 09:00:09.156 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=zh_CN_#Hans
+Command-line arguments:  -data /Users/wangzhixiong/.emacs.d/.cache/jdtls-workspace
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:09.851
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:09.874
+!MESSAGE Started org.eclipse.buildship.core 16ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:09.874
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:09.875
+!MESSAGE ProjectRegistryRefreshJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:09.927
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:09.942
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:09.943
+!MESSAGE Initializing Java Language Server 1.47.0.202505151856
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:10.350
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:10.350
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:10.366
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:14.014
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:14.026
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:14.038
+!MESSAGE Workspace initialized in 24ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:14.049
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:14.089
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:14.089
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:14.091
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:14.614
+!MESSAGE Reconciled 14. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.269
+!MESSAGE begin problem for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.270
+!MESSAGE 91 problems reported for /AppSpecialBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.283
+!MESSAGE begin problem for /CarbonPanelController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.283
+!MESSAGE 0 problems reported for /CarbonPanelController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.318
+!MESSAGE begin problem for /InfluxDBService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.319
+!MESSAGE 71 problems reported for /InfluxDBService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.358
+!MESSAGE begin problem for /CarbonPanelBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.358
+!MESSAGE 100 problems reported for /CarbonPanelBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.379
+!MESSAGE begin problem for /PowerController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.380
+!MESSAGE 15 problems reported for /PowerController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.395
+!MESSAGE begin problem for /EnergyReportController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.395
+!MESSAGE 3 problems reported for /EnergyReportController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.408
+!MESSAGE begin problem for /AdminEnergyClassificationController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.408
+!MESSAGE 0 problems reported for /AdminEnergyClassificationController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.419
+!MESSAGE begin problem for /OpenApiController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.419
+!MESSAGE 2 problems reported for /OpenApiController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.464
+!MESSAGE begin problem for /EnergyReportBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.464
+!MESSAGE 100 problems reported for /EnergyReportBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.491
+!MESSAGE begin problem for /DayAnalysis.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.491
+!MESSAGE 46 problems reported for /DayAnalysis.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.571
+!MESSAGE begin problem for /EnergyDataAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.571
+!MESSAGE 100 problems reported for /EnergyDataAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.582
+!MESSAGE begin problem for /AppSpecialController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.582
+!MESSAGE 0 problems reported for /AppSpecialController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.621
+!MESSAGE begin problem for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.622
+!MESSAGE 100 problems reported for /IndexAnalysisBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.641
+!MESSAGE begin problem for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.642
+!MESSAGE 24 problems reported for /ShiftScheduleBiz.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-21 09:00:15.642
+!MESSAGE Validated 14. Took 422 ms

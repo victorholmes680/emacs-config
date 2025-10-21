@@ -1,0 +1,81 @@
+ls
+clear
+ls
+cd vicotr
+victor
+cd victorholmes/
+ls
+cd workspace/ls
+cd workspace
+ls
+clear
+ls
+cd rustHello/
+ls
+cd HelloProject/src/
+ls
+cd ..
+ls
+clear
+ls
+cargo run 
+3 -     let _r: i32 = &_x;cargo run 
+Finished `dev` profile [unoptimized + debugcargo run info] target(s) in 0.07s
+clear
+cargo run 
+clar
+clear
+ls
+cargo run 
+clear
+cargo run 
+error: could not compile `HelloProject` (binck "HelloProject") due to 2 previous errors
+clear
+cargo run 
+clear
+ls
+cargo run 
+clear
+cargo run 
+clesar
+clear
+cargo run 
+clear
+cargo run 
+cargo run 
+clear
+cargo run 
+cllear
+clear
+cargo run 
+clear
+cargo run 
+clear
+cargo run 
+cleasr
+clear
+cargo run 
+leasr
+clear
+cargo run 
+clear
+clea
+clear
+cargo run 
+cargo run 
+cargo run 
+clear
+cargo run 
+cargo run 
+cleasr
+clear
+clear
+ls
+clsar
+clear
+ls
+tree 
+exit
+mvn springboot:run
+mvn springboot:run -e
+exit
