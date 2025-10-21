@@ -2,19 +2,19 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Tue Oct 21 12:49:02 2025
+;; Created Tue Oct 21 17:09:57 2025
 ;; Desktop file format version 208
 ;; Emacs version 30.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (26871 4286 957246 0) (desktop . "208") "wangzhixiong@victorholmess-MacBook-Air.local" nil nil ((((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (scroll-bar-foreground) (scroll-bar-background) (tool-bar-lines . 0) (menu-bar-lines . 0) (foreground-color . "#eaeaea") (background-color . "#000000") (right-divider-width . 0) (bottom-divider-width . 0) (height . 40) (width . 172) (modeline . t) (unsplittable) (tab-bar-lines . 0) (internal-border-width . 0) (frameset--id . "99D7-E12A-8E1E-6CCB") (frameset--mini t) (font . "tty") (frameset--text-pixel-width . 172) (frameset--text-pixel-height . 40)) ((min-height . 4) (min-width . 45) (min-height-ignore . 2) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 4) (min-pixel-width . 45) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 6) (min-pixel-height-safe . 1) (min-pixel-width-safe . 4)) hc (pixel-width . 172) (pixel-height . 39) (total-width . 172) (total-height . 39) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 35) (pixel-height . 39) (total-width . 35) (total-height . 39) (normal-height . 1.0) (normal-width . 0.20348837209302323) (parameters (window-side . left) (window-slot . 0)) (buffer " *Treemacs-Buffer-#<frame F1 0x150012400>" (selected) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated . t) (point . 1143) (start . 753))) (leaf (last . t) (pixel-width . 137) (pixel-height . 39) (total-width . 137) (total-height . 39) (normal-height . 1.0) (normal-width . 0.7965116279069768) (buffer "MonitoringPointBiz.java" (selected . t) (hscroll . 0) (fringes 0 0 nil nil) (margins 2) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 50796) (start . 49853)) (prev-buffers ("EnergyFlowAnalysisDto.java" 241 512) ("MonitoringPointBiz.java" 48274 48894) ("MonitoringPointController.java" 3304 4800) ("CarbonPanelBiz.java" 29939 30350) ("CLAUDE.md" 1 1) ("tasks.org" 6716 6898) ("OpenApiBiz.java" 1701 2807) ("OpenApiController.java" 717 1242) ("HostDataVo.java" 1 107) ("EnergyApplication.java" 388 1001) ("ShiftScheduleBiz.java" 1928 2311) ("EnergyReportBiz.java" 40283 41188) ("EnergyDataAnalysisBiz.java" 53968 54249) ("IndexAnalysisBiz.java" 4919 5727) ("AppSpecialBiz.java" 1380 1674) ("DayAnalysis.java" 5624 6031) ("EnergyReportController.java" 1486 1797) ("CarbonPanelController.java" 1 891) ("version.txt • energy-backend" 1 8) ("network.org" 1 1) ("llm.org" 1 482) ("hyperloglog.org" 1 1) ("org.org" 1 170) ("emacs.org" 1 1) ("iomul.c" 1 807) ("Anchor.toml" 1 355) (".rustc_info.json" 1 1) ("withdraw.rs" 1 2) ("mod.rs" 1 53) ("state.rs" 1 323) ("admin.rs" 1 526) ("deposit.rs" 1 1231) ("lib.rs" 1 757) ("docker-compose.yml" 1 141) ("index.org" 1 1810) ("id.json" 1 1) ("stock.org" 1 175) ("hello.rs" 1 44) ("package.json" 1 1) ("Cargo.toml • lending" 1 215) ("Cargo.lock" 1 1) ("Cargo.toml • HelloProject" 1 84) ("claude.org" 1 322) ("main.rs" 1 291) ("password.org" 1 203) ("comment.org" 1 196) ("ws_client.py" 1 479) ("favorites.org" 1 445) ("PowerController.java" 1 2348) ("AdminEnergyClassificationController.java" 1 2118) ("RemoteServerController.java" 1 209) ("IotApplication.java" 1 464) ("WeatherHandlerTest.java" 1 919) ("MigrateEnerInfoHandlerIntegrationTest.java" 9770 10104) ("MigrateEnerInfoHandlerTest.java" 1 1621) ("version.txt • timer-job" 1 1) ("pom.xml • timer-job" 1 1) ("build.bat" 1 1) (".gitignore" 1 1) ("build.sh" 1 758) ("InfluxDBService.java" 1 679) ("AppSpecialController.java" 1 1266) ("yarn.lock" 1 2420) ("daily.org" 1 13758) ("energy-backend" 1 232) ("test-java-project" 1 256) ("src" 1 195) ("main" 1 197) ("java" 1 202) ("com" 1 206) ("example" 1 217) ("HelloWorld.java" 1 272) ("simple-java-project" 1 196) ("pom.xml • simple-java-project" 1 1) ("Hello.java" 1 184) ("jdtls" 1 158) ("emacs" 1 402) ("jdtls.log" 1 63187) ("solana.org" 1 1) ("essay.org" 1 146) ("*scratch*" 1 1)))))])
+(setq desktop-saved-frameset [frameset 1 (26871 19941 381321 0) (desktop . "208") "wangzhixiong@victorholmess-MacBook-Air.local" nil nil ((((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (scroll-bar-foreground) (scroll-bar-background) (tool-bar-lines . 0) (menu-bar-lines . 0) (foreground-color . "#eaeaea") (background-color . "#000000") (right-divider-width . 0) (bottom-divider-width . 0) (height . 35) (width . 83) (modeline . t) (unsplittable) (tab-bar-lines . 0) (internal-border-width . 0) (frameset--id . "99D7-E12A-8E1E-6CCB") (frameset--mini t) (font . "tty") (frameset--text-pixel-width . 83) (frameset--text-pixel-height . 35)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 4) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 83) (pixel-height . 34) (total-width . 83) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (buffer "IotEnergyClassification.java" (selected . t) (hscroll . 0) (fringes 0 0 nil nil) (margins 2) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 319) (start . 1)) (prev-buffers ("AppSpecialBiz.java" 19685 19999) ("IotPointPosition.java" 299 613) ("CarbonPanelBiz.java" 2145 2965) ("EnergyFeignBiz.java" 1 461) ("FunTest.java" 1022 1357) ("OpenApiController.java" 334 981) ("OpenApiBiz.java" 1159 1962) ("HostDataVo.java" 1 138) ("UsageItem.java" 1 140) ("MonitoringPointBiz.java" 48450 48949) ("EnergyFlowAnalysisDto.java" 241 512) ("MonitoringPointController.java" 3304 4800) ("CLAUDE.md" 1 1) ("tasks.org" 6716 6898) ("EnergyApplication.java" 388 1001) ("ShiftScheduleBiz.java" 1928 2311) ("EnergyReportBiz.java" 40283 41188) ("EnergyDataAnalysisBiz.java" 53968 54249) ("IndexAnalysisBiz.java" 4919 5727) ("DayAnalysis.java" 5624 6031) ("EnergyReportController.java" 1486 1797) ("CarbonPanelController.java" 1 891) ("version.txt • energy-backend" 1 8) ("network.org" 1 1) ("llm.org" 1 482) ("hyperloglog.org" 1 1) ("org.org" 1 170) ("emacs.org" 1 1) ("iomul.c" 1 807) ("Anchor.toml" 1 355) (".rustc_info.json" 1 1) ("withdraw.rs" 1 2) ("mod.rs" 1 53) ("state.rs" 1 323) ("admin.rs" 1 526) ("deposit.rs" 1 1231) ("lib.rs" 1 757) ("docker-compose.yml" 1 141) ("index.org" 1 1810) ("id.json" 1 1) ("stock.org" 1 175) ("hello.rs" 1 44) ("package.json" 1 1) ("Cargo.toml • lending" 1 215) ("Cargo.lock" 1 1) ("Cargo.toml • HelloProject" 1 84) ("claude.org" 1 322) ("main.rs" 1 291) ("password.org" 1 203) ("comment.org" 1 196) ("ws_client.py" 1 479) ("favorites.org" 1 445) ("PowerController.java" 1 2348) ("AdminEnergyClassificationController.java" 1 2118) ("RemoteServerController.java" 1 209) ("IotApplication.java" 1 464) ("WeatherHandlerTest.java" 1 919) ("MigrateEnerInfoHandlerIntegrationTest.java" 9770 10104) ("MigrateEnerInfoHandlerTest.java" 1 1621) ("version.txt • timer-job" 1 1) ("pom.xml • timer-job" 1 1) ("build.bat" 1 1) (".gitignore" 1 1) ("build.sh" 1 758) ("InfluxDBService.java" 1 679) ("AppSpecialController.java" 1 1266) ("yarn.lock" 1 2420) ("daily.org" 1 13758) ("energy-backend" 1 232) ("test-java-project" 1 256) ("src" 1 195) ("main" 1 197) ("java" 1 202) ("com" 1 206) ("example" 1 217) ("HelloWorld.java" 1 272) ("simple-java-project" 1 196) ("pom.xml • simple-java-project" 1 1) ("Hello.java" 1 184) ("jdtls" 1 158) ("emacs" 1 402) ("jdtls.log" 1 63187) ("solana.org" 1 1) ("essay.org" 1 146) ("*scratch*" 1 1))))])
 (setq comint-input-ring nil)
 (setq compile-history nil)
 (setq desktop-missing-file-warning nil)
 (setq dired-regexp-history nil)
 (setq extended-command-history '("project-find-regexp" "treemacs" "project-find-regexp" "eglot" "eglot-events-buffer" "project-find-regexp" "treemacs" "eglot" "treemacs-add-and-display-current-project" "eglot" "treemacs" "eglot" "treemacs-remove-project-from-workspace" "treemacs" "project-find-regexp" "treemacs" "project-find-regexp" "find-file" "project-find-regexp" "find-file" "project-find-regexp" "projectile-find-dir" "treemacs" "eglot" "my-java-eglot-diagnose" "eglot" "my-java-eglot-diagnose" "eglot" "load-file" "eglot"))
 (setq face-name-history nil)
-(setq file-name-history '("~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/dto/EnergyFlowAnalysisDto.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/MonitoringPointBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/MonitoringPointController.java" "~/Desktop/zndt/workspace/energy-backend/CLAUDE.md" "~/.emacs.d/custom.el" "~/org/notes/computer/network.org" "~/org/notes/computer/llm.org" "~/org/notes/computer/hyperloglog.org" "~/org/manual/org.org" "~/org/manual/emacs.org" "~/victorholmes/csapp/iomul.c" "~/victorholmes/workspace/lending/Anchor.toml" "~/victorholmes/workspace/lending/target/.rustc_info.json" "~/victorholmes/workspace/lending/programs/lending/src/instructions/withdraw.rs" "~/victorholmes/workspace/lending/programs/lending/src/mod.rs" "~/victorholmes/workspace/lending/programs/lending/src/state.rs" "~/victorholmes/workspace/lending/programs/lending/src/instructions/admin.rs" "~/victorholmes/workspace/lending/programs/lending/src/instructions/deposit.rs" "~/victorholmes/workspace/lending/programs/lending/src/lib.rs" "~/victorholmes/workspace/docker-app/termix/docker-compose.yml" "~/org/notes/financial/index.org" "~/.config/solana/id.json" "~/org/notes/financial/stock.org" "~/victorholmes/workspace/rustHello/hello.rs" "~/victorholmes/workspace/lending/package.json" "~/victorholmes/workspace/lending/Cargo.toml" "~/victorholmes/workspace/rustHello/HelloProject/Cargo.lock" "~/victorholmes/workspace/rustHello/HelloProject/Cargo.toml" "~/org/manual/claude.org" "~/victorholmes/workspace/rustHello/HelloProject/src/main.rs" "~/org/password/password.org" "~/org/comment.org" "~/victorholmes/workspace/ws-sync-data/ws_client.py" "~/org/notes/computer/solana/bootcamp_2024/favorites.org" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/PowerController.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/admin/AdminEnergyClassificationController.java" "~/Desktop/zndt/workspace/timer-job/iot-timer-job/src/main/java/com/zndt/iot/controller/RemoteServerController.java" "~/Desktop/zndt/workspace/timer-job/iot-timer-job/src/main/java/com/zndt/iot/IotApplication.java" "~/Desktop/zndt/workspace/timer-job/deposit-timer-job/src/test/java/com/zndt/timer/handler/WeatherHandlerTest.java" "~/Desktop/zndt/workspace/timer-job/deposit-timer-job/src/test/java/com/zndt/timer/handler/MigrateEnerInfoHandlerIntegrationTest.java" "~/Desktop/zndt/workspace/timer-job/deposit-timer-job/src/test/java/com/zndt/timer/handler/MigrateEnerInfoHandlerTest.java" "~/Desktop/zndt/workspace/timer-job/version.txt" "~/Desktop/zndt/workspace/timer-job/pom.xml" "~/Desktop/zndt/workspace/timer-job/build.bat" "~/Desktop/zndt/workspace/timer-job/.gitignore" "~/Desktop/zndt/workspace/energy-backend/CLAUDE.md" "~/Desktop/zndt/workspace/energy-backend/build.sh" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/service/InfluxDBService.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/AppSpecialController.java" "~/victorholmes/pda/yarn.lock" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/CarbonPanelBiz.java" "~/org/daily.org" "/tmp/test-java-project/src/main/java/com/example/HelloWorld.java" "/private/tmp/simple-java-project/pom.xml" "/tmp/simple-java-project/Hello.java" "~/.config/emacs/jdtls.log" "~/org/notes/computer/solana/solana.org" "~/org/notes/essay/essay.org" "~/Desktop/zndt/workspace/energy-backend/version.txt" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/CarbonPanelController.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/EnergyReportController.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/analysis/DayAnalysis.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/AppSpecialBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/IndexAnalysisBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/EnergyDataAnalysisBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/EnergyReportBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/ShiftScheduleBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-starter/src/main/java/com/zndt/cloud/energy/EnergyApplication.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/vo/HostDataVo.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/OpenApiController.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/OpenApiBiz.java" "~/org/tasks.org" "~/.emacs.d/custom.el" "~/org/notes/computer/network.org" "~/org/notes/computer/llm.org" "~/org/notes/computer/hyperloglog.org" "~/org/manual/org.org" "~/org/manual/emacs.org" "~/victorholmes/csapp/iomul.c" "~/victorholmes/workspace/lending/Anchor.toml" "~/victorholmes/workspace/lending/target/.rustc_info.json" "~/victorholmes/workspace/lending/programs/lending/src/instructions/withdraw.rs" "~/victorholmes/workspace/lending/programs/lending/src/mod.rs" "~/victorholmes/workspace/lending/programs/lending/src/state.rs" "~/victorholmes/workspace/lending/programs/lending/src/instructions/admin.rs" "~/victorholmes/workspace/lending/programs/lending/src/instructions/deposit.rs" "~/victorholmes/workspace/lending/programs/lending/src/lib.rs" "~/victorholmes/workspace/docker-app/termix/docker-compose.yml" "~/org/notes/financial/index.org" "~/.config/solana/id.json" "~/org/notes/financial/stock.org" "~/victorholmes/workspace/rustHello/hello.rs" "~/victorholmes/workspace/lending/package.json" "~/victorholmes/workspace/lending/Cargo.toml" "~/victorholmes/workspace/rustHello/HelloProject/Cargo.lock" "~/victorholmes/workspace/rustHello/HelloProject/Cargo.toml" "~/org/manual/claude.org" "~/victorholmes/workspace/rustHello/HelloProject/src/main.rs" "~/org/password/password.org" "~/org/comment.org"))
+(setq file-name-history '("~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/entity/IotEnergyClassification.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/entity/IotPointPosition.java" "~/Desktop/zndt/workspace/energy-backend/energy-starter/src/test/java/FunTest.java" "~/Desktop/zndt/workspace/energy-backend/energy-starter/src/main/java/com/zndt/cloud/energy/EnergyFeignBiz.java" "~/.emacs.d/custom.el" "~/org/notes/computer/network.org" "~/org/notes/computer/llm.org" "~/org/notes/computer/hyperloglog.org" "~/org/manual/org.org" "~/org/manual/emacs.org" "~/victorholmes/csapp/iomul.c" "~/victorholmes/workspace/lending/Anchor.toml" "~/victorholmes/workspace/lending/target/.rustc_info.json" "~/victorholmes/workspace/lending/programs/lending/src/instructions/withdraw.rs" "~/victorholmes/workspace/lending/programs/lending/src/mod.rs" "~/victorholmes/workspace/lending/programs/lending/src/state.rs" "~/victorholmes/workspace/lending/programs/lending/src/instructions/admin.rs" "~/victorholmes/workspace/lending/programs/lending/src/instructions/deposit.rs" "~/victorholmes/workspace/lending/programs/lending/src/lib.rs" "~/victorholmes/workspace/docker-app/termix/docker-compose.yml" "~/org/notes/financial/index.org" "~/.config/solana/id.json" "~/org/notes/financial/stock.org" "~/victorholmes/workspace/rustHello/hello.rs" "~/victorholmes/workspace/lending/package.json" "~/victorholmes/workspace/lending/Cargo.toml" "~/victorholmes/workspace/rustHello/HelloProject/Cargo.lock" "~/victorholmes/workspace/rustHello/HelloProject/Cargo.toml" "~/org/manual/claude.org" "~/victorholmes/workspace/rustHello/HelloProject/src/main.rs" "~/org/password/password.org" "~/org/comment.org" "~/victorholmes/workspace/ws-sync-data/ws_client.py" "~/org/notes/computer/solana/bootcamp_2024/favorites.org" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/PowerController.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/admin/AdminEnergyClassificationController.java" "~/Desktop/zndt/workspace/timer-job/iot-timer-job/src/main/java/com/zndt/iot/controller/RemoteServerController.java" "~/Desktop/zndt/workspace/timer-job/iot-timer-job/src/main/java/com/zndt/iot/IotApplication.java" "~/Desktop/zndt/workspace/timer-job/deposit-timer-job/src/test/java/com/zndt/timer/handler/WeatherHandlerTest.java" "~/Desktop/zndt/workspace/timer-job/deposit-timer-job/src/test/java/com/zndt/timer/handler/MigrateEnerInfoHandlerIntegrationTest.java" "~/Desktop/zndt/workspace/timer-job/deposit-timer-job/src/test/java/com/zndt/timer/handler/MigrateEnerInfoHandlerTest.java" "~/Desktop/zndt/workspace/timer-job/version.txt" "~/Desktop/zndt/workspace/timer-job/pom.xml" "~/Desktop/zndt/workspace/timer-job/build.bat" "~/Desktop/zndt/workspace/timer-job/.gitignore" "~/Desktop/zndt/workspace/energy-backend/build.sh" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/service/InfluxDBService.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/AppSpecialController.java" "~/victorholmes/pda/yarn.lock" "~/org/daily.org" "/tmp/test-java-project/src/main/java/com/example/HelloWorld.java" "/private/tmp/simple-java-project/pom.xml" "/tmp/simple-java-project/Hello.java" "~/.config/emacs/jdtls.log" "~/org/notes/computer/solana/solana.org" "~/org/notes/essay/essay.org" "~/Desktop/zndt/workspace/energy-backend/version.txt" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/CarbonPanelController.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/EnergyReportController.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/analysis/DayAnalysis.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/IndexAnalysisBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/EnergyDataAnalysisBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/EnergyReportBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/ShiftScheduleBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-starter/src/main/java/com/zndt/cloud/energy/EnergyApplication.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/vo/HostDataVo.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/OpenApiController.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/OpenApiBiz.java" "~/org/tasks.org" "~/Desktop/zndt/workspace/energy-backend/CLAUDE.md" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/CarbonPanelBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/MonitoringPointController.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/dto/EnergyFlowAnalysisDto.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/MonitoringPointBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/vo/UsageItem.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/AppSpecialBiz.java" "~/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/vo/UsageItem.java" "~/.emacs.d/custom.el" "~/org/notes/computer/network.org" "~/org/notes/computer/llm.org" "~/org/notes/computer/hyperloglog.org" "~/org/manual/org.org" "~/org/manual/emacs.org" "~/victorholmes/csapp/iomul.c" "~/victorholmes/workspace/lending/Anchor.toml" "~/victorholmes/workspace/lending/target/.rustc_info.json" "~/victorholmes/workspace/lending/programs/lending/src/instructions/withdraw.rs" "~/victorholmes/workspace/lending/programs/lending/src/mod.rs" "~/victorholmes/workspace/lending/programs/lending/src/state.rs" "~/victorholmes/workspace/lending/programs/lending/src/instructions/admin.rs" "~/victorholmes/workspace/lending/programs/lending/src/instructions/deposit.rs" "~/victorholmes/workspace/lending/programs/lending/src/lib.rs" "~/victorholmes/workspace/docker-app/termix/docker-compose.yml" "~/org/notes/financial/index.org" "~/.config/solana/id.json" "~/org/notes/financial/stock.org" "~/victorholmes/workspace/rustHello/hello.rs" "~/victorholmes/workspace/lending/package.json" "~/victorholmes/workspace/lending/Cargo.toml" "~/victorholmes/workspace/rustHello/HelloProject/Cargo.lock"))
 (setq grep-find-history nil)
 (setq grep-history nil)
 (setq magit-revision-history nil)
@@ -34,962 +34,1022 @@
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/entity/IotEnergyClassification.java"
+  "IotEnergyClassification.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  319
+  '(1206 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 19871 632747 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1211 460 634 319))))
+
+(desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/AppSpecialBiz.java"
+  "AppSpecialBiz.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  19999
+  '(19999 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 19827 240906 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (20727 21801 1 21937 16432 16432 19071 16513 16513 13872 19073 17836 17842 19065 19065 19073))))
+
+(desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/entity/IotPointPosition.java"
+  "IotPointPosition.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  613
+  '(613 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 19815 668070 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (613 613 613))))
+
+(desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/CarbonPanelBiz.java"
+  "CarbonPanelBiz.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode yas-minor-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode visual-line-mode)
+  2965
+  '(2965 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 19806 410247 0) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (30350 10936 30501 30388 30493 30394 30396 30396 30920 30326 30326 30316 30326 31297 31519 31687))))
+
+(desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-starter/src/main/java/com/zndt/cloud/energy/EnergyFeignBiz.java"
+  "EnergyFeignBiz.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  461
+  '(461 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 19783 223441 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (3519 3707 461))))
+
+(desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-starter/src/test/java/FunTest.java"
+  "FunTest.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  1357
+  '(1357 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 19781 235104 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1357))))
+
+(desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/OpenApiController.java"
+  "OpenApiController.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode visual-line-mode yas-minor-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  981
+  '(981 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 19779 867599 0) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((mark-ring (977 1242 1136 1140 2090 1276 1356 1699 1699 2091 2170 770 556 766 2170 979))))
+
+(desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/OpenApiBiz.java"
+  "OpenApiBiz.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  1962
+  '(1962 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 19777 263682 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (8038 8051 2616 2807 1962))))
+
+(desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/vo/HostDataVo.java"
+  "HostDataVo.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  138
+  '(107 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 19774 433490 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (169 140 185 185 112 185 185 111 108 107))))
+
+(desktop-create-buffer 208
+  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/vo/UsageItem.java"
+  "UsageItem.java"
+  'java-mode
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode)
+  140
+  '(140 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 19553 616166 12000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (197))))
+
+(desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/MonitoringPointBiz.java"
   "MonitoringPointBiz.java"
   'java-mode
-  '(font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode corfu-mode anzu-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
-  50796
-  '(50782 nil)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  48949
+  '(48949 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26871 4195 688307 0) (buffer-file-coding-system . utf-8-unix))
-  '((mark-ring (50779 50683 49131 48894 49156 49073 45414 46405 45932 45945 45778 46318 44624 43714 44287 50796))))
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 19508 435259 12000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (49505 48843 48843 48843 48843 48843 48849 48843 48852 50782 50779 50683 49131 48894 49156 49073))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/dto/EnergyFlowAnalysisDto.java"
   "EnergyFlowAnalysisDto.java"
   'java-mode
-  '(font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode corfu-mode anzu-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   512
   '(512 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26871 4193 640226 0) (buffer-file-coding-system . utf-8-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 5614 859661 371000) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring (486 512))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/MonitoringPointController.java"
   "MonitoringPointController.java"
   'java-mode
-  '(font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode corfu-mode anzu-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   4800
   '(4800 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26871 4032 852425 0) (buffer-file-coding-system . utf-8-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 5454 322850 371000) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring (831 831 4800))))
-
-(desktop-create-buffer 208
-  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/CarbonPanelBiz.java"
-  "CarbonPanelBiz.java"
-  'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode visual-line-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode yas-minor-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
-  30350
-  '(30350 nil)
-  nil
-  nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 4027 621317 0) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
-  '((mark-ring (10936 30501 30388 30493 30394 30396 30396 30920 30326 30326 30316 30326 31297 31519 31687 31607))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/CLAUDE.md"
   "CLAUDE.md"
   'markdown-mode
-  '(anzu-mode corfu-mode flymake-mode whole-line-or-region-local-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whole-line-or-region-local-mode flymake-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 3983 133095 0) (buffer-file-coding-system . utf-8-unix))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 5405 331843 371000) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/tasks.org"
   "tasks.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   6898
   '(6621 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26871 3969 95410 0) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26871 5395 430064 371000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring (6612 6897 6898 6397 6397 6833 6670 6670 6576 6668 6397 6623 6623 5950 3671 6898))))
-
-(desktop-create-buffer 208
-  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/OpenApiBiz.java"
-  "OpenApiBiz.java"
-  'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
-  2807
-  '(8038 nil)
-  nil
-  nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26871 1996 267564 66000) (buffer-file-coding-system . utf-8-unix))
-  '((mark-ring (8051 2616 2807))))
-
-(desktop-create-buffer 208
-  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/OpenApiController.java"
-  "OpenApiController.java"
-  'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode yas-minor-mode visual-line-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
-  1242
-  '(1242 nil)
-  nil
-  nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 1953 354003 427000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
-  '((mark-ring (1136 1140 2090 1276 1356 1699 1699 2091 2176 770 556 766 2170 979 1026 1027))))
-
-(desktop-create-buffer 208
-  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/vo/HostDataVo.java"
-  "HostDataVo.java"
-  'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
-  107
-  '(107 nil)
-  nil
-  nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26871 1918 641686 623000) (buffer-file-coding-system . undecided-unix))
-  '((mark-ring (169 140 185 185 112 185 185 111 108 107))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-starter/src/main/java/com/zndt/cloud/energy/EnergyApplication.java"
   "EnergyApplication.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   1001
   '(1103 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26871 1698 598830 277000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode))
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 3125 943825 648000) (buffer-file-coding-system . utf-8-dos) (overwrite-mode))
   '((mark-ring (1214 1103 1118 1103 1103 1220 1103 1206 1103 1104 1067 991 1194 1186 1191 1001))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/ShiftScheduleBiz.java"
   "ShiftScheduleBiz.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   2311
   '(2330 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 787 988852 991000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 2215 590495 362000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
   '((mark-ring (2222 4609 4609 4609 4609 4609 4611 4732 4732 4732 4732 4737 4737 3154 3154 2132))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/EnergyReportBiz.java"
   "EnergyReportBiz.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   41188
   '(40597 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 65179 666108 726000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 1071 553200 97000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
   '((mark-ring (40253 40253 40253 40253 40258 937 7416 9207 9207 9207 9207 9207 9216 9170 9216 9484))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/EnergyDataAnalysisBiz.java"
   "EnergyDataAnalysisBiz.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   54249
   '(54424 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 65135 163983 726000) (buffer-file-coding-system . utf-8-unix))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 1027 417133 97000) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring (55211 55344 55214 54249))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/IndexAnalysisBiz.java"
   "IndexAnalysisBiz.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   5727
   '(5727 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 64838 727786 732000) (buffer-file-coding-system . utf-8-unix))
-  '((mark-ring nil)))
-
-(desktop-create-buffer 208
-  "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/biz/AppSpecialBiz.java"
-  "AppSpecialBiz.java"
-  'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
-  1674
-  '(nil nil)
-  nil
-  nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 64837 112143 732000) (buffer-file-coding-system . utf-8-unix))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 731 259367 103000) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/analysis/DayAnalysis.java"
   "DayAnalysis.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   6031
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 64836 981099 732000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 729 956271 103000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/EnergyReportController.java"
   "EnergyReportController.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode)
   1797
   '(1797 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 64829 682373 732000) (buffer-file-coding-system . utf-8-unix))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 722 908772 103000) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring (1128 1085 804 1446))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/CarbonPanelController.java"
   "CarbonPanelController.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode yas-minor-mode visual-line-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode visual-line-mode yas-minor-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   891
   '(1562 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 64653 537556 858000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26871 547 16417 229000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
   '((mark-ring (1506 1556 1087 1275 1939 1333 1550 1562 1628 1558 1590 1563 1931 1622 1563 1334))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/version.txt"
   "version.txt"
   'text-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   8
   '(8 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26870 64527 15745 858000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26871 420 608050 229000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring (8 8 8 8 8))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/notes/essay/essay.org"
   "essay.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   146
   '(1 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26870 64463 983495 938000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26871 357 851252 309000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/notes/computer/solana/solana.org"
   "solana.org"
   'org-mode
-  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26870 64443 319134 360000) (buffer-file-coding-system . undecided-unix) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26871 337 547195 731000) (buffer-file-coding-system . undecided-unix) (truncate-lines . t))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/.config/emacs/jdtls.log"
   "jdtls.log"
   'fundamental-mode
-  '(anzu-mode corfu-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode)
   63187
   '(521 nil)
   nil
   nil
-  '((buffer-display-time 26870 62986 943570 927000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((buffer-display-time 26870 64417 190383 298000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
   "emacs"
   'dired-mode
-  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
+  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
   402
   '(nil nil)
   t
   '("/Users/wangzhixiong/.config/emacs/")
-  '((buffer-display-time 26870 62958 162365 927000))
+  '((buffer-display-time 26870 64388 608868 298000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
   "jdtls"
   'dired-mode
-  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
+  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
   158
   '(nil nil)
   t
   '("/Users/wangzhixiong/.config/emacs/jdtls/")
-  '((buffer-display-time 26870 62951 622139 927000))
+  '((buffer-display-time 26870 64382 88169 298000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/tmp/simple-java-project/Hello.java"
   "Hello.java"
   'java-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode yas-minor-mode flymake-mode visual-line-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode visual-line-mode flymake-mode yas-minor-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   184
   '(209 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 62845 192028 819000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 64275 691897 190000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines))
   '((mark-ring (243 243 243 243 241 211 119 172 139 243 243 244 244 244 244 244))))
 
 (desktop-create-buffer 208
   "/private/tmp/simple-java-project/pom.xml"
   "pom.xml"
   'nxml-mode
-  '(anzu-mode corfu-mode rng-validate-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode rng-validate-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26870 62255 355743 757000) (buffer-file-coding-system . utf-8-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26870 63686 339590 128000) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
   "simple-java-project"
   'dired-mode
-  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
+  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
   196
   '(nil nil)
   t
   '("/tmp/simple-java-project/")
-  '((buffer-display-time 26870 61359 4933 109000))
+  '((buffer-display-time 26870 62790 5600 480000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/tmp/test-java-project/src/main/java/com/example/HelloWorld.java"
   "HelloWorld.java"
   'java-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode yas-minor-mode flymake-mode visual-line-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode visual-line-mode flymake-mode yas-minor-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   272
   '(272 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 61350 632867 109000) (buffer-file-coding-system . undecided-unix) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 62781 710198 480000) (buffer-file-coding-system . undecided-unix) (truncate-lines))
   '((mark-ring (21 272 149 272 270 272))))
 
 (desktop-create-buffer 208
   nil
   "example"
   'dired-mode
-  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
+  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
   217
   '(nil nil)
   t
   '("/tmp/test-java-project/src/main/java/com/example/")
-  '((buffer-display-time 26870 61208 103971 109000))
+  '((buffer-display-time 26870 62639 196903 480000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
   "com"
   'dired-mode
-  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
+  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
   206
   '(nil nil)
   t
   '("/tmp/test-java-project/src/main/java/com/")
-  '((buffer-display-time 26870 61207 609757 109000))
+  '((buffer-display-time 26870 62638 719534 480000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
   "java"
   'dired-mode
-  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
+  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
   202
   '(nil nil)
   t
   '("/tmp/test-java-project/src/main/java/")
-  '((buffer-display-time 26870 61206 982903 109000))
+  '((buffer-display-time 26870 62638 108455 480000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
   "main"
   'dired-mode
-  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
+  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
   197
   '(nil nil)
   t
   '("/tmp/test-java-project/src/main/")
-  '((buffer-display-time 26870 61206 545477 109000))
+  '((buffer-display-time 26870 62637 684996 480000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
   "src"
   'dired-mode
-  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
+  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
   195
   '(nil nil)
   t
   '("/tmp/test-java-project/src/")
-  '((buffer-display-time 26870 61205 996717 109000))
+  '((buffer-display-time 26870 62637 149074 480000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
   "test-java-project"
   'dired-mode
-  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
+  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
   256
   '(nil nil)
   t
   '("/tmp/test-java-project/")
-  '((buffer-display-time 26870 61203 614149 109000))
+  '((buffer-display-time 26870 62634 778635 480000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
   "energy-backend"
   'dired-mode
-  '(anzu-mode corfu-mode diff-hl-dired-mode font-lock-mode diredfl-mode whole-line-or-region-local-mode whitespace-cleanup-mode)
+  '(anzu-mode corfu-mode whitespace-cleanup-mode whole-line-or-region-local-mode font-lock-mode diredfl-mode diff-hl-dired-mode)
   232
   '(nil nil)
   t
   '("/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/")
-  '((buffer-display-time 26870 58987 837726 563000))
+  '((buffer-display-time 26870 60419 17553 934000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/daily.org"
   "daily.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   13758
   '(13289 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26870 59018 12760 46000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26870 60449 498527 417000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring (13460 13533 13533 13533 13533 13533 13533 1 13189 13189 11334 11285 10469 13168 13182 12676))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/pda/yarn.lock"
   "yarn.lock"
   'fundamental-mode
-  '(anzu-mode corfu-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode)
   2420
   '(826 nil)
   nil
   nil
-  '((buffer-display-time 26870 55746 843 945000) (buffer-file-coding-system . undecided-unix))
+  '((buffer-display-time 26870 57177 617846 316000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/AppSpecialController.java"
   "AppSpecialController.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode yas-minor-mode visual-line-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode visual-line-mode yas-minor-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   1266
   '(1206 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 55708 641681 852000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 57140 518126 223000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
   '((mark-ring (1209 1206 1266))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/service/InfluxDBService.java"
   "InfluxDBService.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode yas-minor-mode visual-line-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode visual-line-mode yas-minor-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   679
   '(6493 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 54979 941055 813000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 56412 85218 184000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/build.sh"
   "build.sh"
   'sh-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode sh-electric-here-document-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode sh-electric-here-document-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   758
   '(758 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26870 54940 221573 813000) (buffer-file-coding-system . utf-8-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26870 56372 611819 184000) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring (583 423 758))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/timer-job/.gitignore"
   ".gitignore"
   'gitignore-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode symbol-overlay-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode symbol-overlay-mode goto-address-prog-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26870 54823 859999 813000) (buffer-file-coding-system . undecided-dos))
+  '((show-trailing-whitespace . t) (buffer-display-time 26870 56256 417599 184000) (buffer-file-coding-system . undecided-dos))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/timer-job/build.bat"
   "build.bat"
   'bat-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26870 54822 590372 813000) (buffer-file-coding-system . utf-8-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26870 56255 399141 184000) (buffer-file-coding-system . utf-8-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/timer-job/pom.xml"
   "pom.xml"
   'nxml-mode
-  '(anzu-mode corfu-mode rng-validate-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode rng-validate-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26870 54822 846298 813000) (buffer-file-coding-system . utf-8-dos))
+  '((show-trailing-whitespace . t) (buffer-display-time 26870 56255 778243 184000) (buffer-file-coding-system . utf-8-dos))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/timer-job/version.txt"
   "version.txt"
   'text-mode
-  '(anzu-mode corfu-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26870 54823 432798 813000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26870 56256 479538 184000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/timer-job/deposit-timer-job/src/test/java/com/zndt/timer/handler/MigrateEnerInfoHandlerTest.java"
   "MigrateEnerInfoHandlerTest.java"
   'java-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode yas-minor-mode visual-line-mode)
+  '(anzu-mode corfu-mode visual-line-mode yas-minor-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   1621
   '(494 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 54586 285357 813000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 56019 570524 184000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
   '((mark-ring (784 713 1621))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/timer-job/deposit-timer-job/src/test/java/com/zndt/timer/handler/MigrateEnerInfoHandlerIntegrationTest.java"
   "MigrateEnerInfoHandlerIntegrationTest.java"
   'java-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode yas-minor-mode visual-line-mode)
+  '(anzu-mode corfu-mode visual-line-mode yas-minor-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   10104
   '(9583 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 54556 917922 813000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 55990 435462 184000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines))
   '((mark-ring (9714 9622 9664 9972 9575 10104))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/timer-job/deposit-timer-job/src/test/java/com/zndt/timer/handler/WeatherHandlerTest.java"
   "WeatherHandlerTest.java"
   'java-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode yas-minor-mode visual-line-mode)
+  '(anzu-mode corfu-mode visual-line-mode yas-minor-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   919
   '(1403 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 54270 445327 813000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 55704 195576 184000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
   '((mark-ring (641 645 947 1064 1035))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/timer-job/iot-timer-job/src/main/java/com/zndt/iot/IotApplication.java"
   "IotApplication.java"
   'java-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode yas-minor-mode visual-line-mode)
+  '(anzu-mode corfu-mode visual-line-mode yas-minor-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   464
   '(361 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 54231 375833 764000) (buffer-file-coding-system . utf-8-dos) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 55665 378217 135000) (buffer-file-coding-system . utf-8-dos) (truncate-lines))
   '((mark-ring (464))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/timer-job/iot-timer-job/src/main/java/com/zndt/iot/controller/RemoteServerController.java"
   "RemoteServerController.java"
   'java-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode yas-minor-mode visual-line-mode)
+  '(anzu-mode corfu-mode visual-line-mode yas-minor-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   209
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 54225 634727 764000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 55659 885500 135000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/admin/AdminEnergyClassificationController.java"
   "AdminEnergyClassificationController.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode yas-minor-mode visual-line-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode visual-line-mode yas-minor-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   2118
   '(2045 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 54211 133467 764000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 55645 645917 135000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
   '((mark-ring (2118))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/Desktop/zndt/workspace/energy-backend/energy-iot/src/main/java/com/zndt/cloud/energy/controller/PowerController.java"
   "PowerController.java"
   'java-mode
-  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode yas-minor-mode visual-line-mode)
+  '(eglot-inlay-hints-mode eldoc-mode flymake-mode eglot--managed-mode anzu-mode corfu-mode visual-line-mode yas-minor-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   2348
   '(394 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 54064 7233 764000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((show-trailing-whitespace . t) (tab-width . 4) (buffer-display-time 26870 55498 773454 135000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
   '((mark-ring (2077 2379 2443 2378 2334 2348))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/notes/computer/solana/bootcamp_2024/favorites.org"
   "favorites.org"
   'org-mode
-  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
   445
   '(40 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26870 53006 815949 102000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26870 54441 856604 473000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/ws-sync-data/ws_client.py"
   "ws_client.py"
   'python-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   479
   '(1206 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (indent-tabs-mode) (buffer-display-time 26870 51855 126034 396000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((show-trailing-whitespace . t) (tab-width . 8) (indent-tabs-mode) (buffer-display-time 26870 53290 400371 767000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
   '((mark-ring (414 452 476 479))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/comment.org"
   "comment.org"
   'org-mode
-  '(anzu-mode corfu-mode diff-hl-mode font-lock-mode eldoc-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode eldoc-mode font-lock-mode diff-hl-mode)
   196
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26870 22492 716470 464000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26870 23928 250653 835000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/password/password.org"
   "password.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   203
   '(1 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26868 38611 648127 690000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26868 40047 447176 61000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring (100))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/rustHello/HelloProject/src/main.rs"
   "main.rs"
   'rust-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   291
   '(12 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26868 38535 765270 845000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((show-trailing-whitespace . t) (buffer-display-time 26868 39971 905789 216000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
   '((mark-ring (429 296 12 12 12 12 12 12 12 12 12 251 12 12 12 291))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/manual/claude.org"
   "claude.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   322
   '(322 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 23329 524412 556000) (buffer-file-coding-system . undecided-unix) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 24765 935106 927000) (buffer-file-coding-system . undecided-unix) (truncate-lines . t))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/rustHello/HelloProject/Cargo.toml"
   "Cargo.toml"
   'toml-mode
-  '(anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode symbol-overlay-mode goto-address-prog-mode)
+  '(anzu-mode corfu-mode goto-address-prog-mode symbol-overlay-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   84
   '(84 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 26867 23327 381027 556000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 26867 24763 890134 927000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring (84 84))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/rustHello/HelloProject/Cargo.lock"
   "Cargo.lock"
   'fundamental-mode
-  '(anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode)
+  '(anzu-mode corfu-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
   1
   '(nil nil)
   nil
   nil
-  '((buffer-display-time 26867 23330 622464 556000) (buffer-file-coding-system . undecided-unix))
+  '((buffer-display-time 26867 24767 190968 927000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/Cargo.toml"
   "Cargo.toml"
   'toml-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode symbol-overlay-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode symbol-overlay-mode goto-address-prog-mode)
   215
   '(209 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 26867 23335 750477 556000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 26867 24772 443348 927000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring (215 215))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/package.json"
   "package.json"
   'json-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode inferior-js-keys-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode inferior-js-keys-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26867 23352 684081 556000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26867 24789 638325 927000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/rustHello/hello.rs"
   "hello.rs"
   'rust-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   44
   '(4 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26867 23356 529048 556000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((show-trailing-whitespace . t) (buffer-display-time 26867 24793 551635 927000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
   '((mark-ring (44 44 44 44 44 44))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/notes/financial/stock.org"
   "stock.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   175
   '(61 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 14481 931011 736000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 15919 230398 107000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring (186 213 260 388 462 455 498 175))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/.config/solana/id.json"
   "id.json"
   'json-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode inferior-js-keys-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode inferior-js-keys-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26867 2876 668070 3000))
+  '((show-trailing-whitespace . t) (buffer-display-time 26867 4313 994330 374000))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/notes/financial/index.org"
   "index.org"
   'org-mode
-  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
   1810
   '(1521 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26866 62645 123082 604000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26866 64082 718742 975000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring (1450 1450 1521 1699 1796 1796))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/docker-app/termix/docker-compose.yml"
   "docker-compose.yml"
   'docker-compose-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode display-line-numbers-mode symbol-overlay-mode goto-address-prog-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode goto-address-prog-mode symbol-overlay-mode display-line-numbers-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   141
   '(1 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 26866 62600 942323 596000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 26866 64038 606650 967000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
   '((mark-ring (1 140))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/programs/lending/src/lib.rs"
   "lib.rs"
   'rust-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   757
   '(221 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26866 62579 2458 777000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((show-trailing-whitespace . t) (buffer-display-time 26866 64016 869570 148000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
   '((mark-ring (89 653 502 711 654 727 684 688))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/programs/lending/src/instructions/deposit.rs"
   "deposit.rs"
   'rust-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   1231
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26866 62538 951253 393000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26866 63977 36755 764000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/programs/lending/src/instructions/admin.rs"
   "admin.rs"
   'rust-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   526
   '(1310 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26866 62495 232367 393000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((show-trailing-whitespace . t) (buffer-display-time 26866 63933 594610 764000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
   '((mark-ring (1214 1219 669 658 669 669))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/programs/lending/src/state.rs"
   "state.rs"
   'rust-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   323
   '(74 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26866 62497 85459 393000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26866 63935 704900 764000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring (244 244 256 244 241 76 74 80 673 256))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/programs/lending/src/mod.rs"
   "mod.rs"
   'rust-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   53
   '(53 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26866 62505 126807 393000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26866 63943 981876 764000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring (53))))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/programs/lending/src/instructions/withdraw.rs"
   "withdraw.rs"
   'rust-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   2
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26866 62457 260211 393000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (buffer-display-time 26866 63896 375898 764000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/target/.rustc_info.json"
   ".rustc_info.json"
   'json-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode inferior-js-keys-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode inferior-js-keys-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26866 62254 33672 103000) (overwrite-mode))
+  '((show-trailing-whitespace . t) (buffer-display-time 26866 63693 359553 474000) (overwrite-mode))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/workspace/lending/Anchor.toml"
   "Anchor.toml"
   'toml-mode
-  '(anzu-mode corfu-mode goto-address-prog-mode symbol-overlay-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode font-lock-mode)
+  '(anzu-mode corfu-mode font-lock-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode symbol-overlay-mode goto-address-prog-mode)
   355
   '(355 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 26866 62252 947548 103000) (buffer-file-coding-system . undecided-unix))
+  '((show-trailing-whitespace . t) (indent-tabs-mode) (buffer-display-time 26866 63692 403818 474000) (buffer-file-coding-system . undecided-unix))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/victorholmes/csapp/iomul.c"
   "iomul.c"
   'c-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode flymake-mode display-line-numbers-mode display-fill-column-indicator-mode rainbow-delimiters-mode symbol-overlay-mode bug-reference-prog-mode goto-address-prog-mode)
+  '(anzu-mode corfu-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode display-fill-column-indicator-mode display-line-numbers-mode flymake-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   807
   '(292 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (buffer-display-time 26866 62678 534831 277000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((show-trailing-whitespace . t) (buffer-display-time 26866 64118 101212 648000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/manual/emacs.org"
   "emacs.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 23436 249675 556000) (buffer-file-coding-system . undecided-unix) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 24876 85227 927000) (buffer-file-coding-system . undecided-unix) (truncate-lines . t))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/manual/org.org"
   "org.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   170
   '(40 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 23438 689836 556000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 24878 788360 927000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/notes/computer/hyperloglog.org"
   "hyperloglog.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 23441 796569 556000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 24882 175219 927000) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/notes/computer/llm.org"
   "llm.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   482
   '(482 nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 23444 204886 556000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26867 24884 844069 927000) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   "/Users/wangzhixiong/org/notes/computer/network.org"
   "network.org"
   'org-mode
-  '(anzu-mode corfu-mode font-lock-mode eldoc-mode diff-hl-mode whitespace-cleanup-mode whole-line-or-region-local-mode page-break-lines-mode flymake-mode)
+  '(anzu-mode corfu-mode flymake-mode page-break-lines-mode whole-line-or-region-local-mode whitespace-cleanup-mode diff-hl-mode eldoc-mode font-lock-mode)
   1
   '(nil nil)
   nil
   nil
-  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26871 1882 696754 33000) (buffer-file-coding-system . undecided-unix) (truncate-lines . t))
+  '((show-trailing-whitespace . t) (tab-width . 8) (buffer-display-time 26871 19508 134937 12000) (buffer-file-coding-system . undecided-unix) (truncate-lines . t))
   '((mark-ring nil)))
 

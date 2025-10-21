@@ -20,11 +20,10 @@
                            dockerfile-mode dotenv-mode dune
                            dune-format eat eglot elisp-slime-nav
                            elm-mode elm-test-runner embark
-                           embark-consult envrc erlang
-                           exec-path-from-shell flycheck-clojure
-                           flycheck-ledger flycheck-nim
-                           flycheck-relint flycheck-rust flymake
-                           flymake-actionlint flymake-flycheck
+                           embark-consult envrc exec-path-from-shell
+                           flycheck-clojure flycheck-ledger
+                           flycheck-nim flycheck-relint flycheck-rust
+                           flymake flymake-actionlint flymake-flycheck
                            flymake-ruff forge gcmh git-link git-modes
                            git-timemachine github-clone github-review
                            gnu-elpa-keyring-update gnuplot
@@ -42,21 +41,20 @@
                            nixpkgs-fmt ns-auto-titlebar ocaml-ts-mode
                            orderless org-cliplink org-pomodoro origami
                            osx-location package-lint-flymake
-                           page-break-lines paredit php-mode
-                           pip-requirements prettier-js projectile
-                           projectile-rails psci puni purescript-mode
+                           page-break-lines paredit pip-requirements
+                           prettier-js projectile projectile-rails
+                           psci puni purescript-mode
                            rainbow-delimiters rainbow-mode reformatter
                            regex-tool restclient robe rspec-mode
                            ruby-compilation ruby-hash-syntax
                            ruff-format rust-mode sass-mode scratch seq
                            session shfmt sly sly-asdf sly-macrostep
-                           sly-repl-ansi-color smarty-mode sqlformat
-                           sudo-edit switch-window symbol-overlay
-                           tagedit terraform-mode textile-mode
-                           toml-mode tuareg typescript-mode
-                           uiua-ts-mode unfill uptimes vc-darcs
-                           vertico vlf wgrep which-key
-                           whitespace-cleanup-mode
+                           sly-repl-ansi-color sqlformat sudo-edit
+                           switch-window symbol-overlay tagedit
+                           terraform-mode textile-mode toml-mode
+                           tuareg typescript-mode uiua-ts-mode unfill
+                           uptimes vc-darcs vertico vlf wgrep
+                           which-key whitespace-cleanup-mode
                            whole-line-or-region windswap
                            writeroom-mode yagist yaml-mode yard-mode
                            yari zig-mode zig-ts-mode))
